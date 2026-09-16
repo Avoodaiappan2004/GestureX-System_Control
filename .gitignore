@@ -1,0 +1,21 @@
+```gitignore
+# Virtual environments
+venv/
+venv39/
+venv311/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
